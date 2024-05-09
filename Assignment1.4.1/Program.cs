@@ -25,8 +25,8 @@ namespace Assignment1._4._1
         }
         public struct Point
         {
-            double x;
-            double y;
+            public double x;
+            public double y;
 
         }
 
